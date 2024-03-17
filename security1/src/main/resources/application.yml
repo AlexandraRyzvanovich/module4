@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  application:
+    name: security1
+
+server:
+  port: 8090
+  error:
+    whitelabel:
+      enabled: false
+
